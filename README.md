@@ -1,4 +1,4 @@
-# 🍽️ Zomato Restaurant Votes & Rating Analysis (Task 5)
+# 🍽️ Zomato Restaurant Votes & Rating Analysis
 
 An Exploratory Data Analysis (EDA) project focused on analyzing customer votes and evaluating their correlation with restaurant ratings using Python data science tools.
 
