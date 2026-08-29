@@ -5,7 +5,7 @@ An Exploratory Data Analysis (EDA) project focused on analyzing customer votes a
 ---
 
 ## 📌 Project Overview
-This project fulfills **Task 5** of the Zomato Dataset Analysis series. The primary objectives are:
+The primary objectives are:
 1. Identifying restaurants receiving the **highest** and **lowest** number of customer votes.
 2. Analyzing whether a statistical **correlation** exists between the total number of votes and the average rating (`rate`) of a restaurant.
 
